@@ -15,5 +15,6 @@
 	方聪下地狱！！！
 	<h1>嘿嘿哈哈</h1>
 	<p>heiheiheiheiheiheiheiheiehei</p>
+	<div style="width: 300px;height: 200px;background-color: blue;">蓝蓝的天空白云飘，地上马儿在吃草</div>
 </body>
 </html>
